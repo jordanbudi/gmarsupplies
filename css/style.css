@@ -5,6 +5,13 @@
  *
  * Made By MaterializeCSS.com
  */
+h1{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: 800; 
+  text-shadow: 2px 2px rgba(0,0,0,1);
+  font-size: 6em;
+}
+
 
 nav ul a,
 nav .brand-logo {
